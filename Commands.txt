@@ -1,0 +1,3 @@
+flushdb
+Keys *
+get KEY_NAME
